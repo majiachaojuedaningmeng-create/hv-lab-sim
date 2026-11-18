@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器与本地产物
+.vscode/
+.idea/
+*.log
+
+# 打包分发
+*.zip
